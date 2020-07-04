@@ -30,8 +30,8 @@ nevezzük, és az eredményük a rendszer kataklizmikus változása. A fizika ez
 A Fordizmus néhány hátulütőjét a Szép Új Világban Aldoux Huxley előrejelzi. Az embereket gépekként kezelni nem jó, még akkor sem, ha közben
 ők jól érzik magukat. De ez az erőforrások borzasztó pazarlása: Az emberek kreatívak, és együttműködve globális méretű problémákat is meg
 tudnak oldani. Erre a képességre hatalmas szükségünk van most, mert a pozitív visszacsatolások eredmnyei kezdenek nyilvánvalóvá válni:
-emberek éhenhalnak, miközben meg tudnánk termelni mindenkinek elegendő élelmet. emberek meghalnak olyan háborúkban, amelyeket más országok okoznak
-- az olajért, vagy a fegyveripar fellendítése céljából - az ő hazájukban. Vagy gyilkosság áldozataivá válnak, mert egy politikus a szélsőségességével
+emberek éhenhalnak, miközben meg tudnánk termelni mindenkinek elegendő élelmet. emberek meghalnak olyan háborúkban, amelyeket más országok okoznak -
+ az olajért, vagy a fegyveripar fellendítése céljából - az ő hazájukban. Vagy gyilkosság áldozataivá válnak, mert egy politikus a szélsőségességével
 próbál meg voksokat szerezni.
 
 Az "egyenlőtlenség" szó nem megfelelő ennek leírására: túlságosan eufemisztikus, és azt suggalja, hogy azok, akik jól élnek, mindenképpen gonoszak.
