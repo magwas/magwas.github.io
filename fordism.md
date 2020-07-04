@@ -68,6 +68,6 @@ like the way we vote are plain contraproductive. Fortunately science today have 
 better decision-making from grassroots to the global level (a.k.a. politics), and economic solutions which dampen the positive feedback loops, makes possible for everyone
 to live a decent live, and even keeps the free market, as it is one of the most important ways to value people - through their achievements.
 
-You can find a deeper analysis and a proposal for better processes here: https://magwas.github.io/book/en/analysis.html
+[You can find a deeper analysis and a proposal for better processes here](https://magwas.github.io/book/en/analysis.html)
 
 
