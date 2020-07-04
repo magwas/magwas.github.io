@@ -41,16 +41,14 @@ But it is a minority of the people. We live in a so complex world, with a so com
 to keep up the system which generates the above problems: We drive our cars a lot unnecesarily, and buy things we do not need.
 
 Some of the rich people even set goals to themselves which are aimed at handling the consequences, like greener world, saving humanity by
-inhabiting Mars. One prominent of them is Elon Musk. He could also be called a Fordist. Remember the scenes from Breve New World when
-they worship Ford? Their sign is a capital T for the Model T. Now take a look at the sign of Musk's cars. Of course that could wery well
-be a mere coincidence.
+inhabiting Mars. 
 
 If you take a look at the principles of Fordism, they can be rephrased in a more general way:
 
 Principle &#35;1 is about efficiency. Efficiency means we achieve the best results with the least resources. And of course it is only possible
 if we use the results of science. Which actually say that a process can only be made efficient if its measurable, and that implies that its deliverables are standardized.
 
-The second principle is also about efficiency: we should be able to adapt to changes, making us more resilient against them.
+The second principle is also about efficiency, but probably even more about resiliency: we should be able to adapt to changes, making us more resilient against them.
 
 The third principle is about valuing people. You could say that in fordism it is just an artifact of the greed of investors. And you are partly right. If the investor
 is greedy, it will have the same result. But if you think about it, the best way to make sure that you and your descendants live a decent life is to make sure that
@@ -64,11 +62,11 @@ So we can rephrase the principles more generally as:
 
 So far so good, but you can ask: "How it will save us from the impending doom?"
 
-Just apply the principles to it: Politics and the economy are a set of processes, and include (must include) all of the processes which can handle the feedback loops
+Just apply the principles to it: Politics and the economy are systems of processes, and include (must include) all of the processes which can handle the feedback loops
 threatening collapse of the civilisation. If we examine these processes, we realize that the communication structure, the motivational structure, and a lot of key processes
 like the way we vote are plain contraproductive. Fortunately science today have all the means to analyze these processes and to come up solutions which result in
 better decision-making from grassroots to the global level (a.k.a. politics), and economic solutions which dampen the positive feedback loops, makes possible for everyone
-to live a decent live, and even keeps the free market, as it is one of the most important ways to value people through their achievements.
+to live a decent live, and even keeps the free market, as it is one of the most important ways to value people - through their achievements.
 
 You can find a deeper analysis and a proposal for better processes here: https://magwas.github.io/book/en/analysis.html
 
