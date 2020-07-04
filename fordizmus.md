@@ -63,7 +63,7 @@ Tehát az alapelveket általánosabban így fogalmazhatjuk meg:
 Eddig oké, de felteheted a kérdést: Hogyan fog ez megmenteni minket a közelgő összeomlástól?
 
 
-Csak alkalmazzuk az alapelveket: A politika és a gazdaság folyamatok rendszerei, és tartalmazzák (muszály, hogy tartalmazzák) mindazokat a folyamatokat, amelyek
+Csak alkalmazzuk az alapelveket: A politika és a gazdaság folyamatok rendszerei, és tartalmazzák (muszáj, hogy tartalmazzák) mindazokat a folyamatokat, amelyek
 segítségével kezelhetjük a civilizáció összeomlásával fenyegető pozitív visszacsatolásokat. Ha megvizsgáljuk ezeket a folyamatokat, azt találjuk, hogy a 
 kommunikációs struktúra, a motivációs struktúra, és sok kulcsfontosságú folyamat durván kontraproduktív. Szerencsére a tudománynak ma már minden lehetősége megvan
 ezeknek a folyamatoknak az elemzésére, és olyan megoldások megalkotására, amelyek jobb döntéshozatalt eredményeznek az alapoktól a globális szintig (ú.n. politika),
