@@ -1,5 +1,5 @@
 Jelen írás Szilvay Gergely ["Az azonos neműek házassága: érvek és ellenérvek"](https://btk.ppke.hu/uploads/articles/1131314/file/Szilvay_Gergely_disszertaci%C3%B3.pdf) című PhD dolgozatát  elemzi,
-megmutatja annak hiányosságait, és amellett érvel, hogy a szerző érdemtelenül szerezte tudományos fokozatát, és amúgy is homofób, szűklátókörű és - ezek alapokaként - a logikus gondolkodás terén kihívásokkal küzd.
+megmutatja annak hiányosságait, és amellett érvel, hogy - mivel a dolgozat a tudományosság igényének alapvető jegyeivel sem rendelkezik, hemzseg a logikai hibáktól és önellentmondásoktól, valamint csupán az általa érvelni kívánt tétel cáfolására tud bizonyítékokat felvonultatni - a szerző érdemtelenül szerezte tudományos fokozatát, és amúgy is homofób, szűklátókörű és - ezek alapokaként - a logikus gondolkodás terén kihívásokkal küzd.
 
 Ha szükséges a cím elvételéhez, ezt az írást tele tudom rakni hivatkozásokkal, de annyira köztudott tényekre támaszkodom, hogy ezt feleslegesnek tartom.
 
